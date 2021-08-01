@@ -1,3 +1,6 @@
+// Test text...
+
+
 // Driver program to test signal bit operations
 // for signal processing using 8-bit values.
 
@@ -123,4 +126,9 @@ int main() {
 
 	return 0;
 }
+
+void test() {
+	int x = 0;
+}
+
 
